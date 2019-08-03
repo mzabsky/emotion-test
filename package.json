@@ -1,0 +1,17 @@
+{
+  "name": "emotion-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mzabsky/emotion-test.git",
+  "author": "Matěj Zábský <mzabsky@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "emotion": "^10.0.14",
+    "parcel": "^1.12.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "scripts": {
+    "start": "parcel src/index.html"
+  }
+}
